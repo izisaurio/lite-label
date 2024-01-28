@@ -1,0 +1,17 @@
+{
+    "name": "izisaurio/lite-label",
+    "description": "A small PHP library to create language labels files",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "izisaurio",
+            "email": "izi.isaac@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "LiteLabel\\": "lib/"
+        }
+    }
+}
